@@ -1,0 +1,48 @@
+
+
+  .table-count-head{
+         color: white;
+           background-color: #00474f;
+           text-align: center;
+   }
+
+  .table-count-code{
+         color: #00474f;
+           background-color: #ddd;
+           text-align: center;
+           font-weight: 600;
+   }
+
+   #table-foot-head{
+      background-color: #00474f;
+     
+   }
+  
+   
+   #table-foot-wrapper{
+      border-radius: 5px;
+     
+   }
+
+   .table-content{
+      color:#00474f;
+      font-size: 17px;
+      font-weight: 600;
+      height: 200px;
+   }
+
+   
+   .student-table{
+     color: #555;
+     text-align: center;
+   }
+
+   .student-row{
+     color: #555;
+     padding: 10px;
+     text-align: center;
+     background-color: #ddd;
+   }
+
+
+   

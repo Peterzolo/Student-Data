@@ -1,0 +1,54 @@
+
+.student-form{
+   
+    width : 300px;
+   background-color: beige;
+     border-radius: 5px;
+    
+}
+
+ .add-student{
+    text-align: center;
+    width: 300px;
+    color: #fff; 
+     background-color: #1a4596;
+     height: 100px;
+     padding-top: 30px;
+     border-radius: 10px;
+   
+}
+
+#form-input{
+    background-color: #333;
+  color: red;
+} 
+
+#regForm{
+    padding: 10px;
+}
+
+#add-btn{
+    width:300px;
+    background-color: #1a4596;
+}
+
+#read-more{
+    background-color: red;
+}
+
+#cardCaption {
+    background-color: #00474f;
+    color: #00474f;
+}
+
+#message{
+    width: 300px;
+}
+
+.image{
+    width: 200px;
+}
+
+.section2{
+    padding: 10px;
+}
